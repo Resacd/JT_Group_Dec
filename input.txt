@@ -1,0 +1,11 @@
+time resulation=1e-5
+density=1060
+kinematic Viscosity=3.8e-6
+relaxation factor=0.72
+grid size=0.025 // mm
+pressure=1
+Inlet Velocity=0.1
+Reynolds number=100
+number of outlets=4
+inlet/outlet coordinates=-172.611,14.9714,1.0714,-188.496,-190.396
+
